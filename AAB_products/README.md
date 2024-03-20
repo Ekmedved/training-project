@@ -1,1 +1,1 @@
-
+The project revolves around analyzing the sales funnel to gain insights into user behavior within a mobile app for a food startup. Additionally, it involves evaluating an A/A/B experiment focused on font changes. By implementing two control groups, the project ensures test accuracy and aids in identifying any result distortions. Moreover, the project employs unified analytics to assess the application's quality across various experiments, facilitating data-driven decision-making processes for the startup.
