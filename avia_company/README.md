@@ -1,1 +1,1 @@
-
+The project focuses on analytics for F9, a Russian airline specializing in domestic passenger flights. The primary objective is to gain insights into user preferences regarding ticket purchases for specific destinations. Through thorough analysis, the project aims to identify trends, patterns, and factors influencing user decisions, ultimately informing strategic decision-making processes within the airline industry.
