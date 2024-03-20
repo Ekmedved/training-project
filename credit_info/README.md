@@ -1,1 +1,1 @@
-
+This project is commissioned by the credit department of a bank, aiming to assess the impact of clients' marital status and number of children on timely loan repayment. Utilizing input data from the bank's customer solvency statistics, the study seeks to determine correlations between these demographic factors and loan repayment behavior. The findings will inform the development of a credit scoring model, a specialized system designed to evaluate potential borrowers' repayment capabilities, thereby enhancing the bank's risk assessment processes.
